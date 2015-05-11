@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1022.6677"
+   height="684.13379"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Planet.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#333333"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="84.8898"
+     inkscape:cy="234.66746"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1039.2363,-401.46751)">
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2987"
+       transform="matrix(1.6269317,0,0,1.4747726,-72.226212,-645.05753)"
+       inkscape:export-filename="/home/clarias/planet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       cx="-280"
+       cy="940.93359"
+       rx="180"
+       ry="198.57143" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m -727.6109,499.20059 0.0106,-0.008 c -0.004,-1.3e-4 -0.0148,0.006 -0.0106,0.008 z m 515.25576,334.26321 -0.0106,-0.0212 c 77.54634,71.41893 109.09998,142.0774 90.42269,165.48806 -18.08131,22.66374 -87.39986,8.19214 -181.8383,-32.89893 -9.49822,8.56958 -19.56475,16.58037 -30.05264,23.96268 157.15933,76.90089 276.767429,107.33269 302.379819,69.17409 25.3982737,-37.8397 -50.202182,-113.68165 -180.900979,-225.70523 z"
+       id="path2989"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccsccscc"
+       inkscape:export-filename="/home/clarias/planet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="cccccsccscc"
+       inkscape:connector-curvature="0"
+       id="path3783"
+       d="m -328.18345,987.86813 -0.0106,0 c 0.004,2.1e-4 0.0148,0 0.0106,0 z m -515.25576,-334.26311 0,0.0212 c -77.54626,-71.41894 -109.09988,-142.0774 -90.42266,-165.48806 18.08136,-22.66377 87.39993,-8.19211 181.83828,32.89892 9.49822,-8.56958 19.56475,-16.58037 30.05263,-23.96267 -157.15923,-76.90085 -276.76732,-107.33266 -302.37964,-69.17412 -25.3985,37.83973 50.20199,113.68167 180.9008,225.70525 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/clarias/planet.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
